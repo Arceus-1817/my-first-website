@@ -1,0 +1,20 @@
+*{
+     
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Spartan", sans-serif;
+
+    background-color: black;
+    color: beige;
+}
+h1{
+    font-size: 100px;
+    color: white;
+    align-items: center;
+}
+h4{
+    font-size: 30px;
+    color: white;
+    align-items: justify;
+}
